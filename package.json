@@ -1,7 +1,11 @@
 {
-  "name": "bibliotheque-numerique",
+  "name": "template-tailwindcss-4",
   "private": true,
   "version": "0.0.0",
+  "author": {
+    "email": "julesmukadi.dev@gmail.com",
+    "name": "Jules MUKADI"
+  },
   "type": "module",
   "scripts": {
     "dev": "vite",
