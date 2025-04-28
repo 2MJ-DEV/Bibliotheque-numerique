@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@tailwindcss/vite": "^4.0.14",
+    "boxicons": "^2.1.4",
     "tailwindcss": "^4.0.14"
   }
 }
